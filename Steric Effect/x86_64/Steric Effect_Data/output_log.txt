@@ -1,0 +1,67 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2010 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.071 seconds
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\workstation\github\Acsender\Steric Effect\x86_64\Steric Effect_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.492016 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 951.
+Total: 0.515518 ms (FindLiveObjects: 0.054584 ms CreateObjectMapping: 0.035456 ms MarkObjects: 0.363895 ms  DeleteObjects: 0.040588 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.958723 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 735.
+Total: 0.369493 ms (FindLiveObjects: 0.060649 ms CreateObjectMapping: 0.015862 ms MarkObjects: 0.263124 ms  DeleteObjects: 0.028924 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1d94 -> priority: 1 
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.269900 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 961.
+Total: 0.987648 ms (FindLiveObjects: 0.123631 ms CreateObjectMapping: 0.041987 ms MarkObjects: 0.773976 ms  DeleteObjects: 0.047586 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.980184 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 788.
+Total: 0.446004 ms (FindLiveObjects: 0.070912 ms CreateObjectMapping: 0.025192 ms MarkObjects: 0.319574 ms  DeleteObjects: 0.029858 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.051563 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 967.
+Total: 0.482394 ms (FindLiveObjects: 0.062515 ms CreateObjectMapping: 0.027525 ms MarkObjects: 0.383955 ms  DeleteObjects: 0.007464 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.961522 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 923.
+Total: 0.436674 ms (FindLiveObjects: 0.055983 ms CreateObjectMapping: 0.022393 ms MarkObjects: 0.328905 ms  DeleteObjects: 0.028924 ms)
+

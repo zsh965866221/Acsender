@@ -1,0 +1,2 @@
+E:\workstation\unity\myproject\team1\Acsender_Project\obj\Debug\UnityVS.Acsender_Project.CSharp.csprojResolveAssemblyReference.cache
+E:\workstation\unity\myproject\team1\Acsender_Project\obj\Debug\Assembly-CSharp.dll
